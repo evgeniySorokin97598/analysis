@@ -39,7 +39,6 @@ namespace DBwork
                     }
                     connec.Close();
                     Console.WriteLine("Данные сохранены в БД  в таблицу с названием " + _Title);
-
                 }
                 catch (Exception insertExeptions) {
                     Console.WriteLine("Ошибка!");

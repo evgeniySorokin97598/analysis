@@ -42,7 +42,6 @@ namespace Processing
                 Console.WriteLine("Слово : " + matches[i].Groups[1].Value + "          повторяется      " + _matches.Count + " раз (а)");
                 DBwork.DBworker.Words.Add(new wordProcessing { _word = matches[i].Groups[1].Value, _quanity = _matches.Count });
             }
-            Console.WriteLine(matches.Count);
         }
         public void Dispose()
         {

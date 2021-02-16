@@ -38,3 +38,6 @@ There is already an object named 'simbirsoft' in the database.
 дата: 16.02.2021 21:17:47метод createTableThere is already an object named 'dfbdfb' in the database.
 дата: 17.02.2021 0:04:03метод createTableIncorrect syntax near '('.
 дата: 17.02.2021 0:04:24метод createTableIncorrect syntax near 'dsvds'.
+дата: 17.02.2021 0:43:33метод createTableThere is already an object named 'dsvdsv' in the database.
+дата: 17.02.2021 0:44:39метод createTableThere is already an object named 'dsvsdv' in the database.
+дата: 17.02.2021 0:44:44метод createTableIncorrect syntax near '111111111'.

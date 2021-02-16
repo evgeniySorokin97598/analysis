@@ -34,7 +34,7 @@ namespace FileWork
                     }
                 }
         }
-        static void Pattern(string sourse) // ивзлекает текст из html элементов 
+        static void Pattern(string sourse) 
         {
             Regex regex = new Regex(@"([<]\s{0,}?\w.{0,}?>)+([\D]{0,1}?)(\s{0,}?\w.{0,}?)?(\W{0,1})(<.{0,}?\W(\s{0,}?)\w.{0,}?>)");
             sourse = ClearHtml(sourse);
@@ -47,7 +47,7 @@ namespace FileWork
                 }
             }
         }
-        static string ClearHtml(string sourse) // удаляет стили и скриты 
+        static string ClearHtml(string sourse)
         {
             Regex deleteSripts = new Regex(@"<script.*>");
             sourse = deleteSripts.Replace(sourse, " ");
