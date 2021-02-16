@@ -1,0 +1,40 @@
+There is already an object named 'simbirsoft' in the database.
+метод createTableThere is already an object named 'simbirsoft' in the database.
+дата: 13.02.2021 20:13:26метод createTableThere is already an object named 'simbirsoft' in the database.
+дата: 13.02.2021 20:27:33метод createTableThere is already an object named 'simbirsoft' in the database.
+дата: 13.02.2021 20:34:22метод createTableThere is already an object named 'simbirsoft' in the database.
+дата: 13.02.2021 20:35:30метод createTableThere is already an object named 'simbirsoft' in the database.
+дата: 13.02.2021 20:36:40метод createTableThere is already an object named 'simbirsoft' in the database.
+дата: 13.02.2021 20:43:27 || метод titleWebAppSpecified argument was out of the range of valid values. (Parameter 'i')
+дата: 13.02.2021 20:43:27 || метод titleWebAppSpecified argument was out of the range of valid values. (Parameter 'i')
+дата: 13.02.2021 20:43:27 || метод titleWebAppSpecified argument was out of the range of valid values. (Parameter 'i')
+дата: 13.02.2021 20:43:37метод createTableThere is already an object named 'professorweb' in the database.
+дата: 13.02.2021 20:46:54метод createTableThere is already an object named 'professorweb' in the database.
+дата: 13.02.2021 20:47:27метод createTableThere is already an object named 'professorweb' in the database.
+дата: 13.02.2021 20:48:45метод createTableThere is already an object named 'professorweb' in the database.
+дата: 13.02.2021 20:50:57метод createTableThere is already an object named 'metanit' in the database.
+дата: 13.02.2021 20:52:32метод createTableThere is already an object named 'metanit' in the database.
+дата: 13.02.2021 20:53:10метод createTableThere is already an object named 'professorweb' in the database.
+дата: 13.02.2021 21:04:03метод createTableThere is already an object named 'professorweb' in the database.
+дата: 13.02.2021 21:20:28метод createTableThere is already an object named 'simbir' in the database.
+дата: 13.02.2021 21:20:39метод createTableThere is already an object named 'simbir' in the database.
+дата: 13.02.2021 21:45:19метод createTableIncorrect syntax near '('.
+дата: 13.02.2021 21:48:22метод createTableIncorrect syntax near '123'.
+дата: 13.02.2021 22:03:08метод createTableIncorrect syntax near 'нибудь'.
+дата: 13.02.2021 22:35:45метод createTableIncorrect syntax near '('.
+дата: 13.02.2021 22:40:26метод createTableIncorrect syntax near '('.
+дата: 14.02.2021 14:39:56метод createTableIncorrect syntax near '('.
+дата: 14.02.2021 16:21:50метод createTableThere is already an object named 'dsv' in the database.
+дата: 14.02.2021 16:40:04метод createTableIncorrect syntax near '('.
+
+дата: 14.02.2021 20:15:32метод createTableAn attempt to attach an auto-named database for file C:\Users\админ\sourceepos\ConsoleApp14\ConsoleApp14\data Base\Web.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+дата: 14.02.2021 20:15:39метод createTableAn attempt to attach an auto-named database for file C:\Users\админ\sourceepos\ConsoleApp14\ConsoleApp14\data Base\Web.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+дата: 14.02.2021 20:15:40метод createTableAn attempt to attach an auto-named database for file C:\Users\админ\sourceepos\ConsoleApp14\ConsoleApp14\data Base\Web.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+дата: 14.02.2021 20:15:42метод createTableAn attempt to attach an auto-named database for file C:\Users\админ\sourceepos\ConsoleApp14\ConsoleApp14\data Base\Web.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+дата: 14.02.2021 20:17:22метод createTableAn attempt to attach an auto-named database for file C:\Users\админ\sourceepos\ConsoleApp14\ConsoleApp14\data Base\Web.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+дата: 14.02.2021 20:17:23метод createTableAn attempt to attach an auto-named database for file C:\Users\админ\sourceepos\ConsoleApp14\ConsoleApp14\data Base\Web.mdf failed. A database with the same name exists, or specified file cannot be opened, or it is located on UNC share.
+дата: 14.02.2021 20:23:19метод createTableIncorrect syntax near '2131231'.
+дата: 16.02.2021 21:17:32метод createTableThere is already an object named 'dfbdfb' in the database.
+дата: 16.02.2021 21:17:47метод createTableThere is already an object named 'dfbdfb' in the database.
+дата: 17.02.2021 0:04:03метод createTableIncorrect syntax near '('.
+дата: 17.02.2021 0:04:24метод createTableIncorrect syntax near 'dsvds'.

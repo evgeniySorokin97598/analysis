@@ -1,0 +1,75 @@
+метод Download: The remote server returned an error: (404) Not Found.
+метод Download: The remote server returned an error: (404) Not Found.
+дата:13.02.2021 20:43:27|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\AllWords'.
+дата:13.02.2021 20:50:32|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:13.02.2021 20:50:57|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:13.02.2021 20:51:16|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:13.02.2021 20:52:32|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:13.02.2021 21:03:12|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:13.02.2021 21:27:25|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:13.02.2021 21:27:39|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:13.02.2021 21:39:19|| метод Download: The remote server returned an error: (301) Moved Permanently.
+дата:13.02.2021 21:39:19|| метод Download: The path is empty. (Parameter 'path')
+дата:13.02.2021 21:42:44|| метод Download: The remote server returned an error: (404) Not Found.
+дата:13.02.2021 21:42:49|| метод Download: The remote server returned an error: (301) Moved Permanently.
+дата:13.02.2021 21:43:53|| метод Download: The remote server returned an error: (301) Moved Permanently.
+дата:13.02.2021 21:44:00|| метод Download: The remote server returned an error: (404) Not Found.
+дата:13.02.2021 21:45:28|| метод Download: The remote server returned an error: (404) Not Found.
+дата:13.02.2021 22:05:36|| метод Download: Cannot read from a closed TextReader.
+Object name: 'StreamReader'.
+дата:13.02.2021 22:05:50|| метод Download: Cannot read from a closed TextReader.
+Object name: 'StreamReader'.
+дата:14.02.2021 14:36:13|| метод Download: Этот хост неизвестен. Этот хост неизвестен.
+дата:14.02.2021 14:36:53|| метод Download: Этот хост неизвестен. Этот хост неизвестен.
+дата:14.02.2021 14:47:54|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:48:18|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:48:24|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:48:39|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:49:00|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:49:07|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:50:34|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:51:20|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:52:04|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:52:26|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:53:36|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 14:54:32|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 15:07:11|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 15:07:32|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sdvvds'.
+дата:14.02.2021 15:29:43|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 15:29:47|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sdv'.
+дата:14.02.2021 15:29:49|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sdv'.
+дата:14.02.2021 15:29:49|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sdv'.
+дата:14.02.2021 15:29:50|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sdv'.
+дата:14.02.2021 15:29:50|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\v'.
+дата:14.02.2021 15:29:50|| метод Download: The path is empty. (Parameter 'path')
+дата:14.02.2021 15:29:51|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\ds'.
+дата:14.02.2021 15:29:51|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sd'.
+дата:14.02.2021 15:29:51|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\dv'.
+дата:14.02.2021 15:29:52|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\vds'.
+дата:14.02.2021 15:29:52|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sd'.
+дата:14.02.2021 15:30:54|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 15:30:56|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sdv'.
+дата:14.02.2021 15:30:58|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\dsv'.
+дата:14.02.2021 17:11:07|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:11:31|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:11:49|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:12:11|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:12:18|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:12:45|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:13:01|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:13:20|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:16:03|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:16:10|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:16:22|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:16:35|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:14.02.2021 17:16:55|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:14.02.2021 17:17:00|| метод Download: The remote server returned an error: (403) Forbidden.
+дата:14.02.2021 17:18:24|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:22:48|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:23:32|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:23:44|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:23:52|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:24:02|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:24:10|| метод Download: An exception occurred during a WebClient request.
+дата:14.02.2021 17:32:55|| метод Download: The remote server returned an error: (404) Not Found.
+дата:14.02.2021 17:43:52|| метод Download: Could not find file 'C:\Users\админ\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\netcoreapp3.1\sdvdsv'.
